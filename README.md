@@ -1,3 +1,3 @@
 # startup-of-the-year
 Starter project!
-*visist https://zerotomastery.io/ for more*
+*visist https://rikesh0910.io/ for more*
